@@ -1,2 +1,2 @@
 # hello-world
-For completing GitHub's tutorial along with other information
+My name is Nico Veneziano. // To be updated later
